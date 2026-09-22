@@ -1,0 +1,6 @@
+{
+  "name": "Coca-Cola Clone",
+  "description": "An educational product design web project celebrating iconic refreshment design and brand storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
